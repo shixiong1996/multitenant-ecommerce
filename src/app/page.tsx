@@ -10,7 +10,7 @@ export default function Home() {
       <div className="flex flex-col gap-y-4">
         <div>
           <Button variant={'elevated'}>
-            I am a button
+            I am a Button
           </Button>
         </div>
         <div> 
